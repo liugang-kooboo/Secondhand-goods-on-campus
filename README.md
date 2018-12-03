@@ -89,6 +89,5 @@
 
 ### 商品详细
 <img src="https://github.com/zhuyuzhu/images/blob/master/pictures/goodsDetail.jpg" width="300" alt="身份验证"/>
-
-#### 预约购买
+### 预约购买
 <img src="https://github.com/zhuyuzhu/images/blob/master/pictures/buyGoods.jpg" width="300" alt="身份验证"/>
